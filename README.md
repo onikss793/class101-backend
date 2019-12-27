@@ -1,17 +1,5 @@
 # Class 101 클론 코딩
 
-#### 프론트앤드
-
-- 김형목
-- 최시찬
-- 박충식
-- 박세환
-
-#### 백앤드
-
-- 유웅조
-- 이새글
-
 ### 모바일
 
 ![클래스101모바일](class101.gif)
@@ -27,4 +15,9 @@
 
 4. 개요
    - Class 101의 모바일 페이지를 클론 코딩
-   - 기술 스텍: React Native | Node.js | Express | MongoDB | AWS EC2
+   - 기술 스텍
+   1. React Native
+   2. Node.js
+   3. Express
+   4. MongoDB
+   5. AWS EC2
